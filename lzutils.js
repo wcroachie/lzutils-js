@@ -1,3 +1,12 @@
+/*
+__blobToLZBlob
+__LZBlobToBlob
+__dataURLToLZDataURL
+__LZDataURLToDataURL
+
+*/
+
+
 window[new Error().stack.match(location.href.match(/(.*)\//g)+"(.*?):")[1]]=()=>{
   
 
